@@ -27,10 +27,10 @@ public class EmailUtility {
         port	= 587;
         debug	= true;
 
-        username = "silladeruedas@telecos.me";
+        username = "proyectosilladeruedasitt@gmail.com";
         password = "wheelchair1408";
 
-        senderEmail = "silladeruedas@telecos.me";
+        senderEmail = "proyectosilladeruedasitt@gmail.com";
     }
 
     public EmailUtility( String host, int port, String username, String password, String senderEmail ) {

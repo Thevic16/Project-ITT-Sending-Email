@@ -3,3 +3,6 @@ edu/pucmm/eict/util/EmailUtility.java
  edu.pucmm.eict.util.EmailUtility$1
 edu/pucmm/eict/Main.java
  edu.pucmm.eict.Main
+edu/pucmm/eict/util/EmailFallEvent.java
+ edu.pucmm.eict.util.EmailFallEvent
+ edu.pucmm.eict.util.EmailFallEvent$1
